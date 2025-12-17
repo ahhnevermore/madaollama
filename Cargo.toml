@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "madaollama-server",
+    "madaollama-test",
+]
+
+resolver = "2"
